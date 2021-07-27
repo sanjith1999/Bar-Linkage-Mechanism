@@ -1,4 +1,2 @@
-# Mars
-Just to check the functioning.
-A new line of Code
-Yet another line of code
+This Folder contains code for the functioning of a 4-Bar-Linkage Mechanism....
+(I defined the values for the lengths of Bars and Initial conditions inside the code)
