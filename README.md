@@ -1,3 +1,3 @@
-### Implementation of 4-Bar Linkage System
+### 4-Bar Linkage System : Parameter Simulation
 
-![video](./result.mp4)
+[![](./preview.png)](./result.mp4)
