@@ -1,2 +1,3 @@
-This Folder contains Submission of my project about Mechanisms and code for the functioning of a 4-Bar-Linkage Mechanism....
-(I defined the values for the lengths of Bars and Initial conditions inside the code)
+### Implementation of 4-Bar Linkage System
+
+[video](./result.mp4)

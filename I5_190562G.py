@@ -80,6 +80,7 @@ def animate(i):
     ax1.annotate('D', (x_D, y_D))
 
     ax1.plot(x_M, y_M, color='#c71032')
+    ax1.axis('equal')
     ax1.set_title('Position of Linkages')
     ax1.set_ylim([-40, 50])
     ax1.set_xlim([-20, 50])
@@ -117,6 +118,7 @@ def animate(i):
     ax2.set_ylim([-0.5, 0.5])
     ax2.set_xlim([-0.5, 0.6])
     ax2.set_title('Velocities  At Instant')
+    ax2.axis('equal')
 
     # plotting realtime data of Velocity of point D
     if A < (m.pi * 2 - 0.001):
